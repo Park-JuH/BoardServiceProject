@@ -1,0 +1,3 @@
+[submodule "BoardService/config"]
+	path = BoardService/config
+	url = https://github.com/Park-JuH/BoardServiceConfig.git
